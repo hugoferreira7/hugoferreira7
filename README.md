@@ -1,14 +1,11 @@
-### Hi there, I´m Hugo! 👋
+<h1> Hi there, I´m Hugo Ferreira! 👋 </h1>
+<br>
 
 
-
-- 🔭 I’m currently studying Computer Science in Coimbra Engineering Academy 
-- 🌱 I’m currently learning C++, C
-- 💬 Ask me about coding...
-- 📫 How to reach me: <br>
+I’m currently studying Computer Science in <b> Coimbra Engineering Academy!</b>
+ <br>
 <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width=2% height=2%> - [@hugo_ferreira16](https://twitter.com/hugo_ferreira16) <br>
 <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width=2% height=2%> - [Hugo Ferreira](https://www.linkedin.com/in/hugo-ferreira-aa6390230)
-- 😄 Pronouns: He/His
 - Languages and tools: <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" width=3% height=3%> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" width=3% height=3%>
