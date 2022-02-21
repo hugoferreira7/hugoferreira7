@@ -1,5 +1,5 @@
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-study-4024615-3328754.png" align="right">
-<h1> Hi there, I´m Hugo Ferreira! 👋 </h1>
+<h1> Hi there, I´m Hugo! 👋 </h1>
 
 <br>
 
