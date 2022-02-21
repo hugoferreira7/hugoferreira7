@@ -21,6 +21,18 @@ I’m a Computer Science student from Portugal, currently studying in <b> Coimbr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width=4% height=4%>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=4% height=4%>
 </p>
+<h3>🔎Find me: </h3>
+<p>
+<a href=https://www.linkedin.com/in/hugo-ferreira-aa6390230>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=4% height=4%>
+</a>
+<a href=https://twitter.com/hugo_ferreira16>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=4% height=5%>
+</a>
+ <a href=https://www.instagram.com/hugo.ferreira7/>
+<img src="https://logo-logos.com/wp-content/uploads/2016/10/Instagram_logo_icon.png" width=4% height=4%>
+ </a>
+</p>
 
 
 
