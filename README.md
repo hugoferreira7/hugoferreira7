@@ -1,6 +1,7 @@
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-study-4024615-3328754.png" align="right">
 <h2> Hi there, I´m Hugo Ferreira! 👋 </h2>
-<br>
 
+<br>
 
 I’m a Computer Science student from Portugal, currently studying in <b> Coimbra Engineering Academy!</b> 
 
@@ -13,13 +14,10 @@ I’m a Computer Science student from Portugal, currently studying in <b> Coimbr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=4% height=4%>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=4% height=4%>
 
-
-
-
 </p>
 
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-study-4024615-3328754.png" align="right">
+
 
 
 
