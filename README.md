@@ -14,6 +14,7 @@ I’m a Computer Science student from Portugal, currently studying in <b> Coimbr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=4% height=4%>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=4% height=4%>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width=4% height=4%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=4% height=4%/>
 </p>
 <h3>🛠️Tools: </h3>
 <p>
