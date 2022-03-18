@@ -3,7 +3,7 @@
 
 <br>
 
-I’m a Computer Science student from Portugal, currently studying in <b> Coimbra Engineering Academy! </b>  Right now Im learning Java.
+I’m a Computer Science student from Portugal, currently taking a bachelor degree in Computer Science at <b> Coimbra Engineering Academy! </b>  Right now Im learning Java.
 
 <h3>🔧Languages: </h3>
 <p>
