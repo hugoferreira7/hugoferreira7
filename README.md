@@ -5,7 +5,7 @@
 
 I’m a Computer Science student from Portugal, currently taking a bachelor degree in Computer Science at <b> Coimbra Engineering Academy! </b>
 
-<hr width="52%">
+<hr width="45%">
 
 <h3>🔧Languages: </h3>
 <p>
@@ -19,7 +19,7 @@ I’m a Computer Science student from Portugal, currently taking a bachelor degr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=4% height=4%/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=4% height=4%/>
           
-<hr width="52%">
+<hr width="45%">
  
 </p>
 <h3>🛠️Tools: </h3>
@@ -31,7 +31,7 @@ I’m a Computer Science student from Portugal, currently taking a bachelor degr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=4% height=4%>
 </p>
 
-<hr width="52%">
+<hr width="45%">
 
 <h3>🔎Find me: </h3>
 <p>
