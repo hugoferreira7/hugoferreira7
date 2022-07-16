@@ -5,6 +5,8 @@
 
 I’m a Computer Science student from Portugal, currently taking a bachelor degree in Computer Science at <b> Coimbra Engineering Academy! </b>
 
+<hr width="52%">
+
 <h3>🔧Languages: </h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width=4% height=4%>
@@ -17,6 +19,7 @@ I’m a Computer Science student from Portugal, currently taking a bachelor degr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=4% height=4%/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=4% height=4%/>
           
+<hr width="52%">
  
 </p>
 <h3>🛠️Tools: </h3>
@@ -27,6 +30,9 @@ I’m a Computer Science student from Portugal, currently taking a bachelor degr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width=4% height=4%>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=4% height=4%>
 </p>
+
+<hr width="52%">
+
 <h3>🔎Find me: </h3>
 <p>
 <a href=https://www.linkedin.com/in/hugo-ferreira-aa6390230>
@@ -36,14 +42,8 @@ I’m a Computer Science student from Portugal, currently taking a bachelor degr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=4% height=5%>
 </a>
  <a href=https://www.instagram.com/hugo.ferreira7/>
-<img src="https://logo-logos.com/wp-content/uploads/2016/10/Instagram_logo_icon.png" width=4% height=4%>
+<img src="https://user-images.githubusercontent.com/84676077/179369077-291037d9-bb83-41c9-8ca5-c91415c44374.png" width=4% height=4%>
  </a>
 </p>
-
-
-
-
-
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=hooper1337&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
