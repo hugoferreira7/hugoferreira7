@@ -35,13 +35,13 @@ I’m a Computer Science student from Portugal, currently taking a bachelor degr
 
 <h3>🔎Find me: </h3>
 <p>
-<a href=https://www.linkedin.com/in/hugo-ferreira-aa6390230>
+<a href=https://www.linkedin.com/in/hugo-ferreira-aa6390230 target="_blank" rel="noopener noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=4% height=4%>
 </a>
-<a href=https://twitter.com/hugo_ferreira16>
+<a href=https://twitter.com/hugo_ferreira16 target="_blank" rel="noopener noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=4% height=5%>
 </a>
- <a href=https://www.instagram.com/hugo.ferreira7/>
+ <a href=https://www.instagram.com/hugo.ferreira7/ target="_blank" rel="noopener noreferrer">
 <img src="https://user-images.githubusercontent.com/84676077/179369077-291037d9-bb83-41c9-8ca5-c91415c44374.png" width=4% height=4%>
  </a>
 </p>
