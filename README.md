@@ -3,7 +3,7 @@
 
 <br>
 
-I’m a Computer Science student from Portugal, currently taking a bachelor degree in Computer Science at <b> Coimbra Institute of Engineering! </b>
+I’m a Computer Science student from Portugal, currently taking a master's degree in CyberSecurity at <b> Aveiro's University! </b>
 
 <hr width="45%">
 
