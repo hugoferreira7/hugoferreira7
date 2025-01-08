@@ -46,5 +46,3 @@ I’m a Software Developer, currently doing backend in Java, from Portugal. Im a
 <img src="https://user-images.githubusercontent.com/84676077/179369077-291037d9-bb83-41c9-8ca5-c91415c44374.png" width=4% height=4%>
  </a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hooper1337&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
