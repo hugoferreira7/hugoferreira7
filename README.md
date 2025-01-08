@@ -42,7 +42,4 @@ I’m a Software Engineer, currently doing backend in Java, from Portugal. Im al
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=4% height=4%>
 </a>
 </a>
- <a href=https://www.instagram.com/hugo.ferreira7/ target="_blank" rel="noopener noreferrer">
-<img src="https://user-images.githubusercontent.com/84676077/179369077-291037d9-bb83-41c9-8ca5-c91415c44374.png" width=4% height=4%>
- </a>
 </p>
