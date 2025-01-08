@@ -3,7 +3,7 @@
 
 <br>
 
-I’m a Software Developer, currently doing backend in Java, from Portugal. Im also master's student in CyberSecurity at <b> Aveiro's University! </b>
+I’m a Software Engineer, currently doing backend in Java, from Portugal. Im also master's student in CyberSecurity at <b> Aveiro's University! </b>
 
 <hr width="45%">
 
